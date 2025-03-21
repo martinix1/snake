@@ -1,0 +1,3 @@
+8437710 - Martin Mtz: Añadida funcionalidad de colores aleatorios
+c79a999 - Martin Mtz: Añadida funcionalidad de movimiento aleatorio de comida
+664fd4d - martin-M90: Initial commit
